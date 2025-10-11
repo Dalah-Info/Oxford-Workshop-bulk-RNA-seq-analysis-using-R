@@ -26,10 +26,10 @@ cran_pkgs <- c(
 #    - Bioconductor
 bioc_pkgs <- c(
   "DESeq2",
-  "apeglm",
   "AnnotationDbi",
   "org.Hs.eg.db",
-  "clusterProfiler"
+  "clusterProfiler",
+  "ReactomePA"
 )
 
 # 4) دالة مساعدة: تثبيت حزمة من CRAN إذا لم تكن موجودة
